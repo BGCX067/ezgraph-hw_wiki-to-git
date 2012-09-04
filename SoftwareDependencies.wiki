@@ -1,0 +1,12 @@
+#summary This page lists the external libraries that alochist depends on.
+
+= Software Dependencies =
+
+  * [http://www.skyserver.org/htm/Old_default.aspx Triangular Mesh] : A Java implementation of the Hierarchical Triangular Mesh (HTM), a partitioning scheme to divide the surface of the Earth's sphere into spherical triangles.
+  * [http://www.zentus.com/sqlitejdbc/ SqliteJDBC] : A Java JDBC driver for SQLite.
+  * [http://acs.lbl.gov/software/colt/ Colt] : A set of Open Source Libraries for High Performance Scientific and Technical Computing in Java.
+ * [http://webgraph.dsi.unimi.it/ WebGraph] : A Java framework to study graphs, providing simple ways to manage very large graphs, exploiting modern compression techniques.
+ * [http://law.di.unimi.it/software/download/ Computing PageRank and its Derivatives] : A Java library that builds on WebGraph to compute the PageRank algorithm.
+ * [http://law.di.unimi.it/satellite-software/weighted/ Weighted graphs] : A Java package that builds on WebGraph and implements a simple arc-weighted graph in which each arc has a weight expressed as a float. The package also contains a class for computing a PageRank scoring that is sensitive to these weights.
+ * [http://law.di.unimi.it/satellite-software/weighted/ Approximate Triangle Counting] : A up tools for library that builds on WebGraph and implements methods for exact and approximate triangle counting in large graphs.
+ * [http://law.di.unimi.it/satellite-software/triangrw/ Triangular random walks] : A Java package that builds on WebGraph and implements triangular random walks.
